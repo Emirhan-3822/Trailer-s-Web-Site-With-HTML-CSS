@@ -1,0 +1,846 @@
+body{
+    background-color: black;
+
+}
+.spiderman{
+    background-image: url(Spiderman.jpg);
+    width: 1415px;
+    height: 911px;
+    background-position: center;
+    background-size: cover;
+    
+
+    
+}
+.spider{
+    color: white;
+    margin-top: -800px;
+    margin-left: 280px;
+    font-size: 25px;
+    
+    
+    
+    
+}
+.about{
+    color: white;
+    width: 250px;
+    height: 250px;
+    margin-left: 340px;
+    margin-top: -15px;
+        
+    
+}
+
+.link{
+    font-size: 20px;
+    margin-top: -90px;
+    margin-left: 365px;
+    text-decoration: none;
+    margin-top: -90px;
+    font-size: 35px;
+    
+    
+    
+    
+
+    
+    
+}
+a{
+    color: white;
+    
+}
+.Anim{
+    font-size: 20px;
+    color: white;
+    margin-top: 510px;
+    margin-left: 10px;
+    
+}
+.Boss{
+    background-image: url(BossBaby.jpg);
+    width: 220px;
+    height: 326px;
+    border-radius: 5px;
+    margin-top: -15px;
+}
+.Name{
+    color: white;
+    margin-left: 40px;
+    margin-top: -10px;
+}
+.Btn2{
+    font-size: 25px;
+    margin-left: 85px;
+    margin-top: -15px; 
+}
+.Polis{
+
+  background-image: url(Zotro.webp);
+  width: 200px;
+  height: 326px;
+  margin-left: 250px;
+  background-position: center;
+  background-size: cover;
+  border-radius: 5px;
+  margin-top: -390px;
+  margin-left: 230px;
+
+
+}
+.Btn3{
+    margin-left: 318px;
+    margin-top: -20px;
+    font-size: 25px;
+
+
+}
+.Movie{
+    color: white;
+    margin-left: 280px;
+    font-size: 20px;
+    margin-top: -15px;
+}
+.Will{
+    background-image: url(will.jpg);
+    width: 200px;
+    height: 326px;
+    margin-left: 440px;
+    border-radius: 5px;
+    margin-top: -390px;
+}
+.Mn{
+    color: white;
+    margin-left: 460px;
+    margin-top: -10px;
+}
+.Button{
+    margin-left: 530px;
+    margin-top: -15px;
+    font-size: 25px;
+}
+.Hero{
+    background-image: url(6hero.jpg);
+    width: 200px;
+    height: 326px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 5px;
+    margin-left: 650px;
+    margin-top: -388px;
+
+    
+}
+.MovieName{
+    color: white;
+    margin-left: 700px;
+    margin-top: -10px;
+}
+.İcon{
+    margin-left: 740px;
+    margin-top: -10px;
+    font-size: 25px;
+}
+.Rat{
+    background-image: url(Tar.webp);
+    width: 200px;
+    height: 326px;
+    background-position: center;
+    background-size: cover;
+    margin-left: 860px;
+    border-radius: 5px;
+    margin-top: -389px;
+}
+.txt{
+    color: white;
+    margin-left: 910px;
+    margin-top: -10px;
+}
+.Button2{
+    margin-left: 950px;
+    font-size: 25px;
+    margin-top: -15px;
+}
+.Luka{
+    background-image: url(Luca.jpeg);
+    width: 200px;
+    height: 326px;
+    border-radius: 5px;
+    background-position: center;
+    background-size: cover;
+    margin-left: 1070px;
+    margin-top: -388px;
+    
+}
+.LucaTXT{
+    color: white;
+    margin-left: 1140px;
+    font-size: 20px;
+    margin-top: -15px;
+}
+.Button5{
+    font-size: 25px;
+    margin-left: 1160px;
+    margin-top: -20px;
+}
+.Ok{
+
+    margin-left: 1325px;
+    margin-top: -250px;
+    font-size: 75px;
+}
+.Horror{
+    color: white;
+    margin-left: 10px;
+    margin-top: 200px;
+}
+.Cound{
+    background-image: url(Cound.jpg);
+    width: 200px;
+    height: 326px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 5px;
+}
+.Text{
+    color: white;
+    font-size: 20px;
+    margin-left: 30px;
+    margin-top: -20px;
+}
+.Click{
+    font-size: 25px;
+    margin-left: 70px;
+    margin-top: -15px;
+
+}
+.Veron{
+    background-image: url(Veronica.jpg);
+    width: 200px;
+    height: 326px;
+    background-position: center;
+    background-size: cover;
+    margin-left: 210px;
+    margin-top: -388px;
+    border-radius: 5px;
+    
+}
+.VeronTXT{
+    color: white;
+    font-size: 20px;
+    margin-left: 265px;
+    margin-top: -20px;
+}
+.Play{
+    font-size: 25px;
+    margin-left: 300px;
+    margin-top: -15px;
+}
+.Fear{
+    background-image: url(Street.jpg);
+    width: 200px;
+    height: 326px;
+    background-position: center;
+    background-size: cover;
+    margin-left: 420px;
+    margin-top: -388px;
+    border-radius: 5px;
+}
+.FearTxt{
+    color: white;
+    margin-left: 450px;
+    margin-top: -10px;
+}
+.Btnn{
+    font-size: 25px;
+    margin-left: 510px;
+    margin-top: -10px;
+}
+.Anna{
+    background-image: url(Annabelle.jpg);
+    width: 200px;
+    height: 326px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 5px;
+    margin-left: 630px;
+    margin-top: -388px;
+}
+.AnnaB{
+    color: white;
+    font-size: 20px;
+    margin-left: 680px;
+    margin-top: -20px;
+}
+.CB{
+    font-size: 25px;
+    margin-left: 725px;
+    margin-top: -20px;
+}
+.Silence{
+    background-image: url(Silence.jpg);
+    width: 200px;
+    height: 326px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 5px;
+    margin-left: 840px;
+    margin-top: -388px;
+}
+.SilenceTxT{
+    color: white;
+    font-size: 20px;
+    margin-left: 875px;
+    margin-top: -15px;
+}
+.SilenceBtn{
+    font-size: 25px;
+    margin-left: 930px;
+    margin-top: -20px;
+}
+.Terr{
+    background-image: url(Terr.jpg);
+    width: 200px;
+    height: 326px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 5px;
+    margin-left: 1050px;
+    margin-top: -392px;
+}
+.Texxt{
+    color: white;
+    font-size: 20px;
+    margin-left: 1110px;
+    margin-top: -15px;
+}
+.TerrButton{
+    font-size: 25px;
+    margin-left: 1145px;
+    margin-top: -20px;
+}
+.Button6{
+    margin-left: 1325px;
+    margin-top: -250px;
+    font-size: 75px;
+}
+.Acc{
+    color: white;
+    margin-top: 190px;
+    margin-left: 10px;
+    font-size: 20px;
+
+
+
+
+} 
+.Fast{
+    background-image: url(Fast.jpg);
+    width: 200px;
+    height: 326px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 5px;
+}
+.Fastt{
+    color: white;
+    font-size: 11px;
+    margin-top: -5px;
+}
+.Tokyo{
+    font-size: 25px;
+    margin-left: 75px;
+    margin-top: -10px;
+}
+.Bat{
+    background-image: url(Batman.jpg);
+    width: 200px;
+    height: 326px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 5px;
+    margin-left: 210px;
+    margin-top: -380px;
+}
+.Batman{
+    color: white;
+    margin-left: 260px;
+    margin-top: -15px;
+}
+.BatTxt{
+    font-size: 25px;
+    margin-left: 300px;
+    margin-top: -18px;
+}
+.Man{
+    background-image: url(Aquaman.jpg);
+    width: 200px;
+    height: 326px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 5px;
+    margin-left: 420px;
+    margin-top: -380px;
+}
+.TextAqua{
+    color: white;
+    margin-left: 480px;
+    margin-top: -15px;
+}
+.Aquaman{
+    font-size: 25px;
+    margin-left: 515px;
+    margin-top: -18px;
+}
+.baby{
+    background-image: url(Baby.jpg);
+    width: 200px;
+    height: 326px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 5px;
+    margin-left: 630px;
+    margin-top: -381px;
+}
+.Driver{
+    color: white;
+    margin-left: 680px;
+    margin-top: -15px;
+}
+.BabyDriver{
+    font-size: 25px;
+    margin-left: 723px;
+    margin-top: -15px;
+}
+.Wick{
+    background-image: url(Wick.jpg);
+    width: 200px;
+    height: 326px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 5px;
+    margin-left: 840px;
+    margin-top: -383px;
+}
+.Johnn{
+    color: white;
+    margin-left: 890px;
+    margin-top: -15px;
+}
+.Linkk{
+    font-size: 25px;
+    margin-left: 935px;
+    margin-top: -15px;
+}
+.NoWay{
+    background-image: url(NoWay.jpg);
+    width: 200px;
+    height: 326px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 5px;
+    margin-left: 1050px;
+    margin-top: -383px;
+}
+.Home{
+    color: white;
+    margin-left: 1050px;
+    font-size: 15px;
+    margin-top: -15px;
+}
+.NoWayHome{
+    font-size: 25px;
+    margin-left: 1145px;
+    margin-top: -15px;
+}
+.Ok3{
+    margin-left: 1325px;
+    margin-top: -250px;
+    font-size: 75px;
+}
+.Addven{
+    color: white;
+    margin-top: 200px;
+    margin-left: 10px;
+}
+.The{
+    background-image: url(The.jpg);
+    width: 200px;
+    height: 326px;
+    border-radius: 5px;
+    background-size: cover;
+    background-position: center;
+}
+.Nort{
+    color: white;
+    margin-left: 50px;
+    margin-top: -15px;
+}
+.Mann{
+    font-size: 25px;
+    margin-left: 87px;
+    margin-top: -15px;
+}
+.Unc{
+    background-image: url(Uncharted.jpg);
+    width: 200px;
+    height: 326px;
+    border-radius: 5px;
+    margin-left: 210px;
+    margin-top: -383px;
+}
+.Tom{
+    color: white;
+    margin-left: 270px;
+    margin-top: -15px;
+}
+.Th{
+    font-size: 25px;
+    margin-left: 308px;
+    margin-top: -15px
+}
+.Thums{
+    background-image: url(Slum.jpg);
+    width: 200px;
+    height: 326px;
+    background-position: center;
+    background-size: cover;
+    margin-left: 420px;
+    margin-top: -383px;
+    border-radius: 5px;
+}
+.Slumtext{
+    color: white;
+    margin-left: 465px;
+    margin-top: -15px;
+}
+.Land{
+    font-size: 25px;
+    margin-left: 510px;
+    margin-top: -15px;
+}
+.Wonder{
+    background-image: url(Wonder.jpg);
+    width: 200px;
+    height: 326px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 5px;
+    margin-left: 630px;
+    margin-top: -383px;
+}
+.Wonder2{
+    color: white;
+    margin-left: 666px;
+    margin-top: -15px;
+}
+.WW{
+    font-size: 25px;
+    margin-left: 730px;
+    margin-top: -15px;
+}
+.Panter{
+    background-image: url(Panter.jpg);
+    width: 200px;
+    height: 326px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 5px;
+    margin-left: 840px;
+    margin-top: -384px;
+}
+.BP{
+    color: white;
+    margin-left: 890px;
+    margin-top: -15px;
+}
+.Long{
+    font-size: 25px;
+    margin-left: 940px;
+    margin-top: -15px;
+}
+.Wild{
+    background-image: url(Wild.jpg);
+    width: 200px;
+    height: 326px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 5px;
+    margin-left: 1050px;
+    margin-top: -383px;
+}
+.call{
+   color: white;
+   margin-left: 1065px;
+   margin-top: -15px;
+}
+.TheCall{
+    font-size: 25px;
+    margin-left: 1145px;
+    margin-top: -15px;
+}
+.oks{
+    margin-left: 1325px;
+    margin-top: -250px;
+    font-size: 75px;
+}
+.TexTT{
+    color: white;
+    margin-top: 190px;
+    margin-left: 10px;
+}
+.War{
+    background-image: url(War.jpg);
+    width: 200px;
+    height: 326px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 5px;
+}
+.WarText{
+    color: white;
+    margin-left: 80px;
+    margin-top: -15px;
+}
+.ClickWar{
+    font-size: 25px;
+    margin-left: 90px;
+    margin-top: -15px;
+}
+.Sniper{
+    background-image: url(Sniper.jpg);
+    width: 200px;
+    height: 326px;
+    background-position: center;
+    background-size: cover;
+    margin-left: 210px;
+    border-radius: 5px;
+    margin-top: -383px;
+}
+.NameSniper{
+    color: white;
+    margin-left: 240px;
+    margin-top: -15px;
+}
+.AmericanSniper{
+    font-size: 25px;
+    margin-left: 305px;
+    margin-top: -15px;
+}
+.All{
+    background-image: url(All.jpg);
+    width: 200px;
+    height: 326px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 5px;
+    margin-left: 420px;
+    margin-top: -383px;
+}
+.Quit{
+    color: white;
+    font-size: 10px;
+    margin-left: 435px;
+    margin-top: -5px;
+}
+.WWText{
+    margin-left: 510px;
+    font-size: 25px;
+    margin-top: -5px;
+}
+.Er{
+    background-image: url(save.jpg);
+    width: 200px;
+    height: 326px;
+    border-radius: 5px;
+    margin-left: 630px;
+    margin-top: -383px;
+}
+.Ryan{
+    color: white;
+    margin-left: 650px;
+    margin-top: -15px;
+}
+.Privite{
+    font-size: 25px;
+    margin-left: 720px;
+    margin-top: -15px;
+}
+.Strong{
+    background-image: url(Strong.jpg);
+    width: 200px;
+    height: 326px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 5px;
+    margin-left: 840px;
+    margin-top: -383px;
+
+
+}
+.Strongss{
+    color: white;
+    margin-left: 900px;
+    margin-top: -15px;
+}
+.StrongText{
+    font-size: 25px;
+    margin-left: 940px;
+    margin-top: -15px;
+}
+.Broken{
+    background-image: url(Un.jpg);
+    width: 200px;
+    height: 326px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 5px;
+    margin-left: 1050px;
+    margin-top: -383px;
+}
+.Un{
+    color: white;
+    margin-left: 1110px;
+    margin-top: -15px;
+}
+.Unbrokken{
+    font-size: 25px;
+    margin-left: 1145px;
+    margin-top: -15px;
+}
+.OkClick{
+    margin-left: 1325px;
+    margin-top: -250px;
+    font-size: 75px;
+}
+.Voice{
+    color: white;
+    margin-top: 190px;
+    margin-left: 10px;
+
+}
+.Asilent{
+   background-image: url(Slint.jpg);
+   width: 200px;
+   height: 326px;
+   background-position: center;
+   background-size: cover;
+   border-radius: 5px;
+}
+.SilentTxT{
+    color: white;
+    margin-left: 35px;
+    margin-top: -15px;
+}
+.SilentBtn{
+    font-size: 25px;
+    margin-left: 85px;
+    margin-top: -15px;
+}
+.Summer{
+    background-image: url(Summer.cHJkLWVtcy1hc3NldHMvbW92aWVzLzJkYTgwODZhLWE3NDMtNGFmMC05MTViLTVmZmVkMmY5OGQ0Zi5qcGc=);
+    width: 200px;
+    height: 326px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 5px;
+    margin-left: 210px;
+    margin-top: -383px;
+}
+.Ghost{
+    color: white;
+    margin-left: 244px;
+    margin-top: -15px;
+}
+.SG{
+    font-size: 25px;
+    margin-left: 300px;
+    margin-top: -15px;
+}
+.You{
+    background-image: url(Your.jpeg);
+    width: 200px;
+    height: 326px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 5px;
+    margin-left: 420px;
+    margin-top: -383px;
+}
+.Your{
+    color: white;
+    margin-left: 475px;
+    margin-top: -15px;
+}
+.Yourname{
+    font-size: 25px;
+    margin-left: 515px;
+    margin-top: -15px;
+}
+.Away{
+    background-image: url(Away.jpg);
+    width: 200px;
+    height: 326px;
+    border-radius: 5px;
+    background-position: center;
+    background-size: cover;
+    margin-left: 630px;
+    margin-top: -383px;
+}
+.Whisker{
+    color: white;
+    margin-left: 663px;
+    margin-top: -15px;
+}
+.Anime{
+    font-size: 25px;
+    margin-left: 723px;
+    margin-top: -15px;
+}
+.Eat{
+    background-image: url(eat.jpg);
+    width: 200px;
+    height: 326px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 5px;
+    margin-left: 840px;
+    margin-top: -383px;
+}
+.Want{
+    color: white;
+    margin-left: 835px;
+    margin-top: -15px;
+}
+.Pan{
+    font-size: 25px;
+    margin-left: 925px;
+    margin-top: -15px;
+}
+.Anime2{
+    background-image: url(Yoth.webp);
+    width: 200px;
+    height: 326px;
+    background-position: center;
+    background-size: cover;
+    margin-left: 1050px;
+    margin-top: -383px;
+
+}
+.Anime3{
+    color: white;
+    margin-left: 1085px;
+    margin-top: -15px;
+}
+.Youth{
+    font-size: 25px;
+    margin-left: 1147px;
+    margin-top: -15px;
+}
+.Oks{
+    margin-left: 1325px;
+    margin-top: -250px;
+    font-size: 75px;
+}
+}
